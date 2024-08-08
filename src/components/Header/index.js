@@ -9,7 +9,7 @@ function Header() {
                 <a href="#">Assistir</a>
             </nav>
         </header>
-    )
+    );
 }
 
 export default Header;
