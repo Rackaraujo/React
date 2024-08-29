@@ -12,8 +12,8 @@ function App() {
       <Container>  
         <h2>Animes</h2>
         <section className="cards">
-          <Card/>
-          <Card/>
+          <Card id="aZenmeRytEM"/>
+          <Card id="atxYe-nOa9w"/>
           <Card/>
           <Card/>
           <Card/>
