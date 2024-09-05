@@ -6,6 +6,7 @@ import Watch from "./pages/Watch";
 import Favorites from "./pages/Favorites";
 import FavoritesProvider from "./contexts/Favorites";
 import VideoCadastre from "./pages/VideoCadastre";
+import CarouselBanner from "./components/CarouselBanner";
 
 function AppRoutes() {
     return (
@@ -17,6 +18,7 @@ function AppRoutes() {
                     <Route path="/search" element={<Search />} ></Route>
                     <Route path="/favorites" element={<Favorites />} ></Route>
                     <Route path="/cadastre" element={<VideoCadastre />} ></Route>
+                    <Route path="/carousel" element={<CarouselBanner />} ></Route>
                     <Route path="*" element={<PageNotFound />} ></Route>
                 </Routes>
             </FavoritesProvider>

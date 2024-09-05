@@ -1,0 +1,24 @@
+.banner-carousel {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Defina a altura como altura da viewport, ajuste se necessário */
+    max-width: 100%; /* Garante que o carrossel não exceda a largura da tela */
+    margin: auto;
+    overflow: hidden;
+}
+
+.banner-slide {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.banner-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Faz com que a imagem cubra o contêiner */
+    display: block;
+    margin: 0; /* Remove qualquer margem que possa estar adicionando bordas */
+}
+
+
