@@ -1,26 +1,9 @@
-import Banner from "./components/Banner";
-import Container from "./components/Container";
-import Card from "./components/Card";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
+import AppRoutes from "./routes";
 
 function App() {
+
   return (
-    <>
-      <Header/>
-      <Banner  image="favoritos"/>
-      <Container>  
-        <h2>Animes</h2>
-        <section className="cards">
-          <Card id="aZenmeRytEM"/>
-          <Card id="atxYe-nOa9w"/>
-          <Card/>
-          <Card/>
-          <Card/>
-        </section>
-      </Container>
-      <Footer/>
-    </>
+    <AppRoutes />
   );
 }
 

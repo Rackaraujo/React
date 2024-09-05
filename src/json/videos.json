@@ -1,0 +1,255 @@
+[
+  {
+      "id": "wPdX66-Ag2s",
+      "title": "jojo s bizarre adventure",
+      "url": "https://www.youtube.com/watch?v=wPdX66-Ag2s",
+      "cover": "https://img.youtube.com/vi/wPdX66-Ag2s/maxresdefault.jpg",
+      "category":  "Animes Populares"
+  },
+  {
+      "id": "YkJvHe3KK2c",
+      "title": "demon slayer",
+      "url": "https://www.youtube.com/watch?v=YkJvHe3KK2c",
+      "cover": "https://img.youtube.com/vi/YkJvHe3KK2c/maxresdefault.jpg",
+      "category": "Animes Populares"
+  },
+  {
+      "id": "XS-N8KfZ5EU",
+      "title": "haikyuu",
+      "url": "https://www.youtube.com/watch?v=XS-N8KfZ5EU",
+      "cover": "https://img.youtube.com/vi/XS-N8KfZ5EU/maxresdefault.jpg",
+      "category": "Animes Populares"
+  },
+  {
+      "id": "Qw9iMfRBDf0",
+      "title": "bersek",
+      "url": "https://www.youtube.com/watch?v=Qw9iMfRBDf0",
+      "cover": "https://img.youtube.com/vi/Qw9iMfRBDf0/maxresdefault.jpg",
+      "category": "Animes Populares"
+  },
+  {
+      "id": "GwaRztMaoY0",
+      "title": "jujutsu kaisen",
+      "url": "https://www.youtube.com/watch?v=GwaRztMaoY0",
+      "cover": "https://img.youtube.com/vi/GwaRztMaoY0/maxresdefault.jpg",
+      "category": "Animes Populares"
+  },
+  {
+    "id": "8OkpRK2_gVs",
+    "title": "attack on titan",
+    "cover": "https://img.youtube.com/vi/8OkpRK2_gVs/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8OkpRK2_gVs",
+    "category": "Animes Populares"
+  },
+  {
+    "id": "L1FdEBTJXus",
+    "title": "boku no hero",
+    "cover": "https://img.youtube.com/vi/L1FdEBTJXus/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=L1FdEBTJXus",
+    "category": "Animes Populares"
+  },
+  {
+      "id": "gWCnKoEgfP0",
+      "title": "noragami",
+      "url": "https://www.youtube.com/watch?v=gWCnKoEgfP0",
+      "cover": "https://img.youtube.com/vi/gWCnKoEgfP0/maxresdefault.jpg",
+      "category": "Recomendados para você"
+  },
+  {
+    "id": "atxYe-nOa9w",
+    "title": "one punch man",
+    "url": "https://www.youtube.com/watch?v=atxYe-nOa9w",
+    "cover": "https://img.youtube.com/vi/atxYe-nOa9w/maxresdefault.jpg",
+    "category": "Recomendados para você"
+  },
+  {
+    "id": "Bw-5Lka7gPE",
+    "title": "mob psycho",
+    "url": "https://www.youtube.com/watch?v=Bw-5Lka7gPE",
+    "cover": "https://img.youtube.com/vi/Bw-5Lka7gPE/maxresdefault.jpg",
+    "category":  "Recomendados para você"
+  },
+  {
+    "id": "xj9aaqzKBwM",
+    "title": "black clover",
+    "url": "https://www.youtube.com/watch?v=xj9aaqzKBwM",
+    "cover": "https://img.youtube.com/vi/xj9aaqzKBwM/maxresdefault.jpg",
+    "category": "Recomendados para você"
+  },
+  {
+    "id": "elyXcwunIYA",
+    "title": "full metal alchemist",
+    "url": "https://www.youtube.com/watch?v=elyXcwunIYA",
+    "cover": "https://img.youtube.com/vi/elyXcwunIYA/maxresdefault.jpg",
+    "category":"Recomendados para você"
+  },
+  {
+    "id": "fShlVhCfHig",
+    "title": "evangelion",
+    "url": "https://www.youtube.com/watch?v=fShlVhCfHig",
+    "cover": "https://img.youtube.com/vi/fShlVhCfHig/maxresdefault.jpg",
+    "category": "Recomendados para você"
+},
+  {
+      "id": "-li0DngnY58",
+      "title": "kotoura san",
+      "url": "https://www.youtube.com/watch?v=-li0DngnY58",
+      "cover": "https://img.youtube.com/vi/-li0DngnY58/maxresdefault.jpg",
+      "category":  "Recomendados para você"
+  },
+  {
+    "id": "4GNTfA-seHY",
+    "title": "saiki kusuo no psi-nan",
+    "url": "https://www.youtube.com/watch?v=4GNTfA-seHY",
+    "cover": "https://img.youtube.com/vi/4GNTfA-seHY/maxresdefault.jpg",
+    "category":  "Recomendados para você"
+},
+  {
+      "id": "ZRrauyTlT6U",
+      "title": "blend s",
+      "url": "https://www.youtube.com/watch?v=ZRrauyTlT6U",
+      "cover": "https://img.youtube.com/vi/ZRrauyTlT6U/maxresdefault.jpg",
+      "category":  "Recomendados para você"
+  },
+  {
+    "id": "uMeR2W19wT0",
+    "title": "tokyo ghoul",
+    "url": "https://www.youtube.com/watch?v=uMeR2W19wT0",
+    "cover": "https://img.youtube.com/vi/uMeR2W19wT0/maxresdefault.jpg",
+    "category": "Recomendados para você"
+  },
+  {
+    "id": "XqD0oCHLIF8",
+    "title": "solo leveling",
+    "url": "https://www.youtube.com/watch?v=XqD0oCHLIF8",
+    "cover": "https://img.youtube.com/vi/XqD0oCHLIF8/maxresdefault.jpg",
+    "category":  "Lançamentos 2024"
+  },
+  {
+    "id": "60_2zt9l3Yk",
+    "title": "delicious in dungeon",
+    "url": "https://www.youtube.com/watch?v=60_2zt9l3Yk",
+    "cover": "https://img.youtube.com/vi/60_2zt9l3Yk/maxresdefault.jpg",
+    "category":  "Lançamentos 2024"
+  },
+  {
+    "id": "PVYxZgyQkIM",
+    "title": "tower of god ",
+    "url": "https://www.youtube.com/watch?v=PVYxZgyQkIM",
+    "cover": "https://img.youtube.com/vi/PVYxZgyQkIM/maxresdefault.jpg",
+    "category":  "Lançamentos 2024"
+  },
+  {
+    "id": "ZYlaUrj2Zkk",
+    "title": "oshi no ko",
+    "url": "https://www.youtube.com/watch?v=ZYlaUrj2Zkk",
+    "cover": "https://img.youtube.com/vi/ZYlaUrj2Zkk/maxresdefault.jpg",
+    "category":  "Lançamentos 2024"
+  },
+  {
+    "id": "8TIfCX3cD7g",
+    "title": "kimi ni todoke ",
+    "url": "https://www.youtube.com/watch?v=8TIfCX3cD7g",
+    "cover": "https://img.youtube.com/vi/8TIfCX3cD7g/maxresdefault.jpg",
+    "category":  "Lançamentos 2024"
+  },
+  {
+    "id": "GJtb9xiC0Pk",
+    "title": "dragon ball z",
+    "url": "https://www.youtube.com/watch?v=GJtb9xiC0Pk",
+    "cover": "https://img.youtube.com/vi/GJtb9xiC0Pk/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "EYdCd00TJhI",
+    "title": "monster",
+    "url": "https://www.youtube.com/watch?v=EYdCd00TJhI",
+    "cover": "https://img.youtube.com/vi/EYdCd00TJhI/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "kNyR46eHDxE",
+    "title": "death note",
+    "url": "https://www.youtube.com/watch?v=kNyR46eHDxE",
+    "cover": "https://img.youtube.com/vi/kNyR46eHDxE/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "vxvP9zSOL7s",
+    "title": "naruto",
+    "url": "https://www.youtube.com/watch?v=vxvP9zSOL7s",
+    "cover": "https://img.youtube.com/vi/vxvP9zSOL7s/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "wW9TwZdWpjw",
+    "title": "bleach",
+    "url": "https://www.youtube.com/watch?v=wW9TwZdWpjw",
+    "cover": "https://img.youtube.com/vi/wW9TwZdWpjw/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "Cb3ggoyqXmU",
+    "title": "yu gi oh",
+    "url": "https://www.youtube.com/watch?v=Cb3ggoyqXmU",
+    "cover": "https://img.youtube.com/vi/Cb3ggoyqXmU/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "ziatgnrtG0Y",
+    "title": "parasyte",
+    "url": "https://www.youtube.com/watch?v=ziatgnrtG0Y",
+    "cover": "https://img.youtube.com/vi/ziatgnrtG0Y/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "SB1NGyWxvlA",
+    "title": "nana",
+    "url": "https://www.youtube.com/watch?v=SB1NGyWxvlA",
+    "cover": "https://img.youtube.com/vi/SB1NGyWxvlA/maxresdefault.jpg",
+    "category":   "Clássicos"
+  },
+  {
+    "id": "asTxh9kuEvE",
+    "title": "full metal",
+    "url": "https://www.youtube.com/watch?v=asTxh9kuEvE",
+    "cover": "https://img.youtube.com/vi/asTxh9kuEvE/maxresdefault.jpg",
+    "category":  "Live actions"
+  },
+  {
+    "id": "mdZQ-_GLzYs",
+    "title": "death note",
+    "url": "https://www.youtube.com/watch?v=mdZQ-_GLzYs",
+    "cover": "https://img.youtube.com/vi/mdZQ-_GLzYs/maxresdefault.jpg",
+    "category":  "Live actions"
+  },
+  {
+    "id": "0i8SMAKR7BE",
+    "title": "saiki kusuo",
+    "url": "https://www.youtube.com/watch?v=0i8SMAKR7BE",
+    "cover": "https://img.youtube.com/vi/0i8SMAKR7BE/maxresdefault.jpg",
+    "category":  "Live actions"
+  },
+  {
+    "id": "MqVLoui7aV0",
+    "title": "tokyo ghoul",
+    "url": "https://www.youtube.com/watch?v=MqVLoui7aV0",
+    "cover": "https://img.youtube.com/vi/MqVLoui7aV0/maxresdefault.jpg",
+    "category":  "Live actions"
+  },
+  {
+    "id": "oblZrnM9p6A",
+    "title": "bleach",
+    "url": "https://www.youtube.com/watch?v=oblZrnM9p6A",
+    "cover": "https://img.youtube.com/vi/oblZrnM9p6A/maxresdefault.jpg",
+    "category":  "Live actions"
+  },
+  {
+    "id": "InF16sp7J0M",
+    "title": "attack on titan",
+    "url": "https://www.youtube.com/watch?v=InF16sp7J0M",
+    "cover": "https://img.youtube.com/vi/InF16sp7J0M/maxresdefault.jpg",
+    "category":  "Live actions"
+  }
+
+]

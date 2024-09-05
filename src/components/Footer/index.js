@@ -1,9 +1,9 @@
-import styles from './Footer.module.css';
+import styles from "./Footer.module.css";
 
-function Footer(){
-    return(
+function Footer() {
+    return (
         <footer className={styles.footer}>
-            <h2>Desenvolvido por Gabriel</h2>
+            <h2>AnimeFlix &copy; Desenvolvido por Gabriel Araujo 2024</h2>
         </footer>
     );
 }

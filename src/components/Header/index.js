@@ -1,15 +1,19 @@
+import { Link } from "react-router-dom";
 import styles from "./Header.module.css";
 
 function Header() {
-    return(
+    return (
         <header className={styles.header}>
-            <span>ETECFLIX</span>
+            <Link to="/">
+                <span>AnimeFlix</span>
+            </Link>
             <nav>
-                <a href="#">Home</a>
-                <a href="#">Assistir</a>
+                <Link to="/">Home</Link>
+                <Link to="/search">Pesquisar</Link>
+                <Link to="/favorites">Favoritos</Link>
             </nav>
         </header>
-    );
+    )
 }
 
 export default Header;
