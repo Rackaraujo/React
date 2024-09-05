@@ -1,15 +1,14 @@
 .container {
     width: 100%;
-    min-height: 100vh; /* aula 14 */
+    min-height: 100vh; 
     background-color: #191919;
     color: #fff;
-    padding-bottom: 1.5rem; /* aula 14 */
+    padding-bottom: 1.5rem;
     text-align: center;
-    padding-inline: 1.5rem; /* aula 14 */
-    overflow: hidden; /* aula 14 */
+    padding-inline: 1.5rem; 
+    overflow: hidden; 
 }
 
-/* extra 02 responsividade */
 @media (max-width: 1024px) {
     .container {
         padding-inline: 2.5rem;
