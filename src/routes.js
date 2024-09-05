@@ -18,7 +18,7 @@ function AppRoutes() {
                     <Route path="/search" element={<Search />} ></Route>
                     <Route path="/favorites" element={<Favorites />} ></Route>
                     <Route path="/cadastre" element={<VideoCadastre />} ></Route>
-                    <Route path="/carousel" element={<CarouselBanner />} ></Route>
+                    <Route path="/carouselbanner" element={<CarouselBanner />} ></Route>
                     <Route path="*" element={<PageNotFound />} ></Route>
                 </Routes>
             </FavoritesProvider>

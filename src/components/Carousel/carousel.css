@@ -1,5 +1,31 @@
-.slick-prev:before,
-.slick-next:before {
-    /* color: red; */
-    font-size: 2rem;
+/* carousel.css */
+.carousel-container {
+    width: 100%;
+    position: relative;
+}
+
+.slick-slide {
+    /* Ajuste conforme necessário */
+    padding: 0 10px; /* Espaçamento entre slides */
+}
+
+.slick-prev, .slick-next {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.5); /* Cor de fundo das setinhas */
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.slick-prev {
+    left: 10px; /* Ajuste a posição conforme necessário */
+}
+
+.slick-next {
+    right: 10px; /* Ajuste a posição conforme necessário */
+}
+
+.slick-prev:before, .slick-next:before {
+    color: #62eaad; /* Cor das setinhas */
+    font-size: 24px; /* Tamanho das setinhas */
 }

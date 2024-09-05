@@ -1,9 +1,8 @@
 .watch {
-    padding-top: 84px; /* 68px + 16px */
-    
+    padding-top: 124px;
+    align-items: center;
 }
 
-/* extra 01 responsividade */
 @media (max-width: 1024px) {
     iframe {
         width: 100%;

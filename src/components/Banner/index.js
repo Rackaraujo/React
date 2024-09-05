@@ -1,12 +1,16 @@
-import styles from "./Banner.module.css";
+import React from 'react';
+import './banner.css'; // Certifique-se de criar esse arquivo CSS
 
-function Banner({ image }) {
-    return(
-        <div
-            className={styles.banner}
-            style={{ backgroundImage: `url('/images/banner-${image}.jpg')` }}
-        ></div>
+function Banner({ title, image, buttonText, buttonLink }) {
+    return (
+        <div className="banner-container">
+            <div className="banner-image" style={{ backgroundImage: `url(${image})` }}></div>
+            <div className="banner-content">
+                <a href={buttonLink} className="banner-button">{buttonText}</a>
+            </div>
+        </div>
     );
 }
 
 export default Banner;
+

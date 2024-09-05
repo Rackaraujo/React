@@ -2,7 +2,7 @@ import React from 'react';
 import Slider from 'react-slick';
 import styles from './BannerCarousel.module.css';
 
-function BannerCarousel({ images }) {
+function BannerCarousel({ slides }) {
     const settings = {
         dots: true,
         infinite: true,
@@ -10,15 +10,22 @@ function BannerCarousel({ images }) {
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
-        autoplaySpeed: 3000,
+        autoplaySpeed: 5000,
     };
 
     return (
         <div className={styles['banner-carousel']}>
             <Slider {...settings}>
-                {images.map((image, index) => (
+                {slides.map((slide, index) => (
                     <div key={index} className={styles['banner-slide']}>
-                        <img src={image} alt={`Slide ${index}`} />
+                        <img src={slide.image} alt={`Slide ${index}`} />
+                        <div className={styles['banner-content']}>
+                            <h2 className={styles['banner-title']}>{slide.title}</h2>
+                            <p className={styles['banner-paragraph']}>{slide.paragraph}</p>
+                            <a href={slide.buttonLink} className={styles['banner-button']}>
+                                {slide.buttonText}
+                            </a>
+                        </div>
                     </div>
                 ))}
             </Slider>
